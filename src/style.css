@@ -11,6 +11,8 @@
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+      width: 100vh;
+    height: 100vh;
 }
 
 a {
@@ -63,6 +65,8 @@ button:focus-visible {
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+      width: 100vh;
+    height: 100vh;
 }
 
 @media (prefers-color-scheme: light) {
